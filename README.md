@@ -1,6 +1,11 @@
-# Full Stack Developer
+# Hi! I'm Luis Lozoya - Full Stack Developer
+
+### About Me
+
+Originally from Spain, working in the US
 
 - 📫 How to reach me: luisloart@gmail.com
+- 🌱 I’m currently learning more about React and NextJS
 
 ### Frameworks
 
@@ -23,13 +28,19 @@
     <img src="./svg/dev/languages/html.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
+    <img src="./svg/dev/languages/css3.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="./svg/dev/languages/sass.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
     <img src="./svg/dev/languages/js.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
     <img src="./svg/dev/languages/python.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
-    <img src="./svg/dev/languages/sass.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+    <img src="./svg/dev/languages/php.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 ### Misc
@@ -41,7 +52,16 @@
     <img src="./svg/dev/misc/chrome.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
+    <img src="./svg/dev/misc/firefox.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
     <img src="./svg/dev/misc/cloud.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="./svg/dev/misc/datascience.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="./svg/dev/misc/security.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 ### Services
@@ -55,9 +75,15 @@
 <a href="#">
     <img src="./svg/dev/services/npm.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
+<a href="#">
+    <img src="./svg/dev//services/office_365.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
 
 ### Tools
 
+<a href="#">
+    <img src="./svg/dev/tools/bash.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
 <a href="#">
     <img src="./svg/dev/tools/visualstudio_code.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
