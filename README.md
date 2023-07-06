@@ -3,7 +3,7 @@
 ### About Me
 
 Originally from Spain <a href="#">
-<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="height:5px vertical-align:top margin:6px 4px">
 </a>, working in the US
 
 - 📫 How to reach me: luisloart@gmail.com
