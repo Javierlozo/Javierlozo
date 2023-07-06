@@ -2,7 +2,9 @@
 
 ### About Me
 
-Originally from Spain, working in the US
+Originally from Spain <a href="#">
+<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>, working in the US
 
 - 📫 How to reach me: luisloart@gmail.com
 - 🌱 I’m currently learning more about React and NextJS
@@ -89,4 +91,10 @@ Originally from Spain, working in the US
 </a>
 <a href="#">
     <img src="./svg/dev/tools/vmware.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
+</a>
+
+### Social
+
+<a href="https://www.linkedin.com/in/luisjlozoya/">
+    <img src="./svg/social/linkedin.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
