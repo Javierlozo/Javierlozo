@@ -52,7 +52,7 @@ Originally from Spain <a>
 <a href="#">
     <img src="./svg/dev/misc/ai.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a>
+<a href="#">
     <img src="./svg/dev/misc/chrome.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
