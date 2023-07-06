@@ -3,9 +3,9 @@
 ### About Me
 
 Originally from Spain <a>
-<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="15px">
+<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
 </a>, working in the US <a>
-<img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="15px">
+<img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
 </a>
 
 - 📫 How to reach me: luisloart@gmail.com
