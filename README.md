@@ -1,5 +1,3 @@
-![Full Stack Developer](https://images.unsplash.com/photo-1581276879432-15cb0b1b574d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80)
-
 # Hi! I'm Luis Lozoya - Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://react-portfolio-javierlozo.vercel.app/)  
