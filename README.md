@@ -1,4 +1,4 @@
-![Full Stack Developer](https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+![Full Stack Developer](https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0)
 
 # Hi! I'm Luis Lozoya - Full Stack Developer
 
