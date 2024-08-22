@@ -5,9 +5,6 @@
 
 ### 🌍 About Me
 
-Originally from Spain ![Spain Flag](./svg/logos/spain-flag-icon.svg), now living in the US ![US Flag](./svg/logos/united-states-flag-icon.svg)  
-
-
 Originally from Spain <a>
 <img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
 </a>, now living in the US <a>
