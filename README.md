@@ -1,103 +1,41 @@
 # Hi! I'm Luis Lozoya - Full Stack Developer
-Portfolio Page: https://react-portfolio-javierlozo.vercel.app/
 
-### About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://react-portfolio-javierlozo.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luisjlozoya/)
 
-Originally from Spain <a>
-<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
-</a>, living in the US <a>
-<img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
-</a>
+### 🌍 About Me
 
-- 📫 How to reach me: luisloart@gmail.com
-- 🌱 I’m currently learning more about React and NextJS
+Originally from Spain ![Spain Flag](./svg/logos/spain-flag-icon.svg), now living in the US ![US Flag](./svg/logos/united-states-flag-icon.svg)  
+Passionate about building intuitive web applications and constantly learning new technologies.
 
-### Frameworks
+- 📫 Reach me at: [luis.lozoya.tech@gmail.com](mailto:luis.lozoya.tech@gmail.com)
+- 🌱 Currently expanding my skills in React and NextJS
+- 💼 Open to new opportunities and collaborations
 
-<a href="#">
-    <img src="./svg/dev/frameworks/react.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/frameworks/angular.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/frameworks/nodejs.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/frameworks/bootstrap.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+### 🛠️ Tech Stack
 
-### Languages
+#### Frameworks
+![React](./svg/dev/frameworks/react.svg) ![Angular](./svg/dev/frameworks/angular.svg) ![Node.js](./svg/dev/frameworks/nodejs.svg) ![Bootstrap](./svg/dev/frameworks/bootstrap.svg)
 
-<a href="#">
-    <img src="./svg/dev/languages/html.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/languages/css3.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/languages/sass.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/languages/js.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/languages/python.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/languages/php.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+#### Languages
+![HTML](./svg/dev/languages/html.svg) ![CSS3](./svg/dev/languages/css3.svg) ![Sass](./svg/dev/languages/sass.svg) ![JavaScript](./svg/dev/languages/js.svg) ![Python](./svg/dev/languages/python.svg) ![PHP](./svg/dev/languages/php.svg)
 
-### Misc
+#### Services
+![AWS](./svg/dev/services/aws.svg) ![Azure](./svg/dev/services/azure.svg) ![npm](./svg/dev/services/npm.svg) ![Office 365](./svg/dev/services/office_365.svg)
 
-<a href="#">
-    <img src="./svg/dev/misc/ai.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/misc/chrome.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/misc/firefox.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/misc/cloud.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/misc/datascience.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/misc/security.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+#### Tools
+![Bash](./svg/dev/tools/bash.svg) ![Visual Studio Code](./svg/dev/tools/visualstudio_code.svg) ![VMware](./svg/dev/tools/vmware.svg)
 
-### Services
+### 💡 Interests & Misc
+![AI](./svg/dev/misc/ai.svg) ![Chrome Extensions](./svg/dev/misc/chrome.svg) ![Firefox](./svg/dev/misc/firefox.svg) ![Cloud Computing](./svg/dev/misc/cloud.svg) ![Data Science](./svg/dev/misc/datascience.svg) ![Cybersecurity](./svg/dev/misc/security.svg)
 
-<a href="#">
-    <img src="./svg/dev/services/aws.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/services/azure.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/services/npm.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev//services/office_365.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+---
 
-### Tools
+### 🔗 Social Links
+- [LinkedIn](https://www.linkedin.com/in/luisjlozoya/)
+- [Portfolio](https://react-portfolio-javierlozo.vercel.app/)
 
-<a href="#">
-    <img src="./svg/dev/tools/bash.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/tools/visualstudio_code.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="#">
-    <img src="./svg/dev/tools/vmware.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+---
 
-### Social
-
-<a href="https://www.linkedin.com/in/luisjlozoya/">
-    <img src="./svg/social/linkedin.svg" alt="angular badge" style="vertical-align:top margin:6px 4px">
-</a>
+### 🚀 Let's Collaborate!
+If you have a project or job opportunity that aligns with my skills, feel free to reach out. I'm always excited to work on challenging and impactful projects!
