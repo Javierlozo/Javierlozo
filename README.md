@@ -6,10 +6,16 @@
 ### 🌍 About Me
 
 Originally from Spain ![Spain Flag](./svg/logos/spain-flag-icon.svg), now living in the US ![US Flag](./svg/logos/united-states-flag-icon.svg)  
+
+
+Originally from Spain <a>
+<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
+</a>, now living in the US <a>
+<img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
+</a>
 Passionate about building intuitive web applications and constantly learning new technologies.
 
 - 📫 Reach me at: [luis.lozoya.tech@gmail.com](mailto:luis.lozoya.tech@gmail.com)
-- 🌱 Currently expanding my skills in React and NextJS
 - 💼 Open to new opportunities and collaborations
 
 ### 🛠️ Tech Stack
