@@ -5,12 +5,10 @@
 
 ### 🌍 About Me
 
-Originally from Spain <a>
-<img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
-</a>, now living in the US <a>
-<img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
+Originally from Spain <a> <img src="./svg/logos/spain-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
+</a>, now living in the US <a> <img src="./svg/logos/united-states-flag-icon.svg" alt="angular badge" style="vertical-align:top margin:6px 4px" height="12px">
 </a>
-Passionate about building intuitive web applications and constantly learning new technologies.
+<div>Passionate about building intuitive web applications and constantly learning new technologies.</div>
 
 - 📫 Reach me at: [luis.lozoya.tech@gmail.com](mailto:luis.lozoya.tech@gmail.com)
 - 💼 Open to new opportunities and collaborations
