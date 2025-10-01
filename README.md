@@ -1,4 +1,4 @@
-# Hi! I'm Luis Lozoya - Full Stack Developer
+# Hi! I'm Luis Javier Lozoya - Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://react-portfolio-javierlozo.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luisjlozoya/)
