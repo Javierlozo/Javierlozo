@@ -37,4 +37,4 @@ TypeScript · Python · Node.js · React · Next.js · AWS (Lambda, IAM, Cognito
 
 ## Open to
 
-Senior Application Security Engineer / AI Security Engineer roles at product companies shipping AI features. Remote or Charleston, SC.
+Application Security Engineer / AI Security Engineer roles, mid level and senior, at product companies shipping AI features. Remote in the US or Charleston, SC.
